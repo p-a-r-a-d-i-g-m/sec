@@ -1,7 +1,7 @@
 # S E C
 
 This package adds support for security.
-This is used to guard code against unwanted behaviour.
+This is used to guard against unwanted behaviour.
 
 # API
 
